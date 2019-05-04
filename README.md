@@ -2,8 +2,6 @@
 
 A plugin that will censor certain phrases in player names when they join the server
 
-Click [here](https://github.com/Cyanox62/PlayerXP/wiki/XP-Config-Settings) for a full list of config settings/rates of xp.
-
 # Installation
 
 **[Smod2](https://github.com/Grover-c13/Smod2) must be installed for this to work.**
